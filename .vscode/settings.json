@@ -1,0 +1,7 @@
+{
+  // Always auto-format if possible on save.
+  "editor.formatOnSave": true,
+
+  // Enable auto-formatting for this languages.
+  "javascript.format.enable": true
+}
